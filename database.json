@@ -1,0 +1,314 @@
+{
+  "car": [
+    {
+      "name": "Toyota Corolla",
+      "description": "A reliable and fuel-efficient sedan.",
+      "model": "2022",
+      "category": "Sedan",
+      "pricePerDay": 2000,
+      "image": "https://www.hdcarwallpapers.com/walls/toyota_all_new_land_cruiser-wide.jpg",
+      "id": "c2a8"
+    },
+    {
+      "name": "Honda Accord",
+      "description": "A stylish and comfortable mid-size sedan.",
+      "model": "2023",
+      "category": "Sedan",
+      "pricePerDay": 1500,
+      "image": "https://di-honda-enrollment.s3.amazonaws.com/2021/model-pages/accord_hybrid/trims/Accord+Hybrid+Touring.jpg",
+      "id": "487a"
+    },
+    {
+      "name": "Tesla Model 3",
+      "description": "An electric car with cutting-edge features.",
+      "model": "2023",
+      "category": "Electric",
+      "pricePerDay": 1120,
+      "image": "https://ymimg1.b8cdn.com/resized/article/8831/pictures/10704690/listing_main_2024-Tesla-Model-3-Facelift-2.jpg",
+      "id": "5956"
+    },
+    {
+      "name": "Ford Explorer",
+      "description": "A versatile SUV for family trips.",
+      "model": "2021",
+      "category": "SUV",
+      "pricePerDay": 880,
+      "image": "https://build.ford.com/dig/Ford/Explorer/2025/HD-FULL%5BEXTBCK1%5D/Image%5B%7CFord%7CExplorer%7C2025%7C1%7C1.%7C300A...PUM..88E.89W.64W.%5D/EXT/4/vehicle.png",
+      "id": "c349"
+    },
+    {
+      "name": "Chevrolet Tahoe",
+      "description": "A full-size SUV with ample space.",
+      "model": "2022",
+      "category": "SUV",
+      "pricePerDay": 2095,
+      "image": "https://aecsv.com/wp-content/uploads/2023/06/tahoe-variant-black.webp",
+      "id": "f194"
+    },
+    {
+      "name": "Mercedes-Benz S-Class",
+      "description": "A luxury sedan offering advanced features.",
+      "model": "2022",
+      "category": "Luxury",
+      "pricePerDay": 200,
+      "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mercedes-Benz/S-Class/10853/1690451611932/front-view-118.jpg",
+      "id": "ef7a"
+    },
+    {
+      "name": "BMW X5",
+      "description": "A premium SUV with great performance.",
+      "model": "2023",
+      "category": "Luxury",
+      "pricePerDay": 1800,
+      "image": "https://m.atcdn.co.uk/vms/media/a5721cc3f79a470da00b69fe2827193e.jpg",
+      "id": "439d"
+    },
+    {
+      "name": "Jeep Wrangler",
+      "description": "An off-road SUV for adventurers.",
+      "model": "2023",
+      "category": "SUV",
+      "pricePerDay": 1585,
+      "image": "https://d2ivfcfbdvj3sm.cloudfront.net/7fc965ab77efe6e0fa62e4ca1ea7673bb25e46530b1e3d8e88cb10/stills_0640_png/MY2021/14720/14720_st0640_116.png",
+      "id": "dee3"
+    },
+    {
+      "name": "Ford Mustang",
+      "description": "A high-performance sports car.",
+      "model": "2023",
+      "category": "Sports",
+      "pricePerDay": 1500,
+      "image": "https://imgd.aeplcdn.com/664x374/cw/ec/23766/Ford-Mustang-Exterior-126883.jpg?wm=0&q=80",
+      "id": "d2d8"
+    },
+    {
+      "name": "Tesla Model Y",
+      "description": "A luxury electric crossover SUV.",
+      "model": "2023",
+      "category": "Electric",
+      "pricePerDay": 2000,
+      "image": "https://static.independent.co.uk/2024/10/30/14/Tesla-Model-Y-Juniper-Front.jpg?width=1200&height=900&fit=crop",
+      "id": "8c2e"
+    },
+    {
+      "name": "Chevrolet Bolt EV",
+      "description": "A compact electric car with great range.",
+      "model": "2023",
+      "category": "Electric",
+      "pricePerDay": 585,
+      "image": "https://di-uploads-pod31.dealerinspire.com/executivechevy/uploads/2022/10/2022-Chevrolet-Bolt-EUV-Premier.png",
+      "id": "95e5"
+    },
+    {
+      "name": "Audi A6",
+      "description": "A luxury sedan with refined features.",
+      "model": "2023",
+      "category": "Luxury",
+      "pricePerDay": 1180,
+      "image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/39472/a6-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80&q=80",
+      "id": "61ba"
+    },
+    {
+      "name": "Hyundai Tucson",
+      "description": "A compact SUV with smart features.",
+      "model": "2023",
+      "category": "SUV",
+      "pricePerDay": 1065,
+      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2022/08/10/ab235b8352a4f43246c556ab6f7f321c166012131990919_original.jpg?impolicy=abp_cdn&imwidth=1200",
+      "id": "8a3b"
+    },
+    {
+      "name": "Dodge Charger",
+      "description": "A powerful muscle car with style.",
+      "model": "2023",
+      "category": "Sports",
+      "pricePerDay": 1400,
+      "image": "https://www.motortrend.com/uploads/sites/5/2020/11/2021-Dodge-Charger-Hellcat-Redeye-24.jpg?w=768&width=768&q=75&format=webp",
+      "id": "89df"
+    },
+    {
+      "name": "Volvo XC90",
+      "description": "A luxury SUV with advanced safety features.",
+      "model": "2023",
+      "category": "Luxury",
+      "pricePerDay": 1175,
+      "image": "https://resource.digitaldealer.com.au/image/2143708564655f1ad56dd3a490956944_1200_0-c.jpg",
+      "id": "10a1"
+    },
+    {
+      "name": "Toyota Camry",
+      "description": "A reliable and elegant sedan.",
+      "model": "2023",
+      "category": "Sedan",
+      "pricePerDay": 1525,
+      "image": "https://images.dealer.com/ddc/vehicles/2025/Toyota/Camry/Sedan/trim_LE_4b85cc/color/Ocean%20Gem-795-5%2C96%2C114-640-en_US.jpg?impolicy=downsize_bkpt&imdensity=1&w=520",
+      "id": "6fc3"
+    },
+    {
+      "name": "Honda Pilot",
+      "description": "A family-friendly midsize SUV.",
+      "model": "2023",
+      "category": "SUV",
+      "pricePerDay": 1185,
+      "image": "https://www.uppervalleyhonda.com/_d/images/html.en2024-Honda-Pilot-TrailSport.webp220I1.webp",
+      "id": "45f1"
+    },
+    {
+      "name": "Hyundai Elantra",
+      "description": "A compact car with modern styling.",
+      "model": "2022",
+      "category": "Sedan",
+      "pricePerDay": 1445,
+      "image": "https://content.homenetiol.com/2000292/2235906/0x0/7ce251c1d67f4b9a8f85823ea0ad875c.jpg",
+      "id": "f131"
+    },
+    {
+      "name": "Mazda CX-5",
+      "description": "A sporty and fun-to-drive SUV.",
+      "model": "2023",
+      "category": "SUV",
+      "pricePerDay": 1060,
+      "image": "https://di-sitebuilder-assets.s3.amazonaws.com/Mazda/model-pages/2022/CX-5/trim-2.5-S.png",
+      "id": "45d6"
+    },
+    {
+      "name": "Subaru Forester",
+      "description": "A compact SUV built for adventures.",
+      "model": "2023",
+      "category": "SUV",
+      "pricePerDay": 2075,
+      "image": "https://di-sitebuilder-assets.s3.amazonaws.com/Subaru/modelLandingPages/Forester/2024/Trims/The+2024+Forester+Limited.png",
+      "id": "91ef"
+    },
+    {
+      "name": "Lexus RX 350",
+      "description": "A luxury midsize SUV.",
+      "model": "2023",
+      "category": "Luxury",
+      "pricePerDay": 1600,
+      "image": "https://imgd.aeplcdn.com/1056x594/n/zbh9jab_1657989.jpg?q=80",
+      "id": "eade"
+    },
+    {
+      "name": "Chevrolet Suburban",
+      "description": "A large SUV for family and group travel.",
+      "model": "2023",
+      "category": "SUV",
+      "pricePerDay": 1000,
+      "image": "https://inv.assets.sincrod.com/RTT/Chevrolet/2024/6136443/default/ext_GAZ_deg02.jpg",
+      "id": "7ad3"
+    }
+  ],
+  "services": [
+    {
+      "id": "cabc",
+      "serviceName": "Full Car Wash",
+      "serviceType": "cleaning",
+      "servicePrice": "500",
+      "serviceDescription": "Thorough exterior cleaning.\tEdit/Delete\n"
+    },
+    {
+      "id": "28da",
+      "serviceName": "Engine Repair\t",
+      "serviceType": "Repair",
+      "servicePrice": "900",
+      "serviceDescription": "Engine problem diagnostics."
+    },
+    {
+      "id": "9505",
+      "serviceName": "Service",
+      "serviceType": "Repair",
+      "servicePrice": "900",
+      "serviceDescription": "Engine problem diagnostics."
+    }
+  ],
+  "cars": [],
+  "enquiry": [
+    {
+      "id": "906d",
+      "name": "BHANU KEERTHI",
+      "mobile": "07989681102",
+      "email": "bhanukeerthi1212@gmail.com"
+    },
+    {
+      "id": "2949",
+      "name": "BHANU KEERTHI",
+      "mobile": "07989681102",
+      "email": "bhanukeerthi1212@gmail.com"
+    },
+    {
+      "id": "aaa8",
+      "name": "BHANU KEERTHI",
+      "mobile": "07989681102",
+      "email": "bhanukeerthi1212@gmail.com"
+    },
+    {
+      "id": "c97d",
+      "name": "BHANU KEERTHI",
+      "mobile": "07989681102",
+      "email": "bhanukeerthi1212@gmail.com"
+    },
+    {
+      "id": "4c09",
+      "name": "ramu",
+      "mobile": "7670889770",
+      "email": "Bhanukeerthi47@gmail.com"
+    },
+    {
+      "id": "4391",
+      "name": "ramu",
+      "mobile": "7670889770",
+      "email": "Bhanukeerthi47@gmail.com"
+    }
+  ],
+  "student": [
+    {
+      "name": [
+        "bhanu"
+      ],
+      "role": [
+        "ui ux desining"
+      ],
+      "age": [
+        "24"
+      ],
+      "id": "3f5d"
+    },
+    {
+      "name": [
+        "bhanu"
+      ],
+      "role": [
+        "ui ux desining"
+      ],
+      "age": [
+        "24"
+      ],
+      "id": "638c"
+    },
+    {
+      "name": [
+        "bhanu"
+      ],
+      "role": [
+        "ui ux desining"
+      ],
+      "age": [
+        "24"
+      ],
+      "id": "c258"
+    },
+    {
+      "name": [
+        "bhanu"
+      ],
+      "role": [
+        "ui ux desining"
+      ],
+      "age": [
+        "24"
+      ],
+      "id": "e463"
+    }
+  ]
+}
